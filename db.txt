@@ -1,0 +1,7 @@
+DB App Info:
+
+red - 	C35858
+black - 393939
+white - FFFFFF
+gray -  979797
+
