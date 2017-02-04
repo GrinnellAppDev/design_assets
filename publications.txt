@@ -1,0 +1,13 @@
+# Publications App Info
+
+Colors
+-----
+light grey - FAFAFA
+black - 101010
+medium grey - ECEFF1
+red - D50000
+light red - E1261C
+
+Fonts
+-----
+* .SF NS Text (or Helvetica Neue)

@@ -1,0 +1,12 @@
+# G-Licious App Info
+
+Colors
+------
+red -   C20D15
+black - 202020
+grey -  545252
+
+Fonts
+-----
+* Avenir Next
+

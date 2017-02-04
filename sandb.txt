@@ -1,0 +1,15 @@
+# S&B App Info
+
+Colors
+------
+main black -    263238
+red -           D50000
+light grey -    EFEFF1
+medium grey -   C0CBD1
+article black - 000000
+
+Fonts
+-----
+* Android status bar - Roboto Regular
+* iOS status bar - Helvetica
+* Montserrat Regular

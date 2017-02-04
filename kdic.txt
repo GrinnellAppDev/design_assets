@@ -1,0 +1,15 @@
+# KDIC App Info
+
+Colors
+------
+red -   	   C20D15
+white - 	   FFFFFF
+medium blue-grey - 5B6070
+dark blue-grey -   303440
+light grey -       EDEFF1
+medium grey -      C0CBD1
+black - 	   1A1A1A
+
+Fonts
+-----
+* Helvetica Neue

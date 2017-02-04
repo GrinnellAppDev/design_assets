@@ -1,0 +1,14 @@
+# Events App Info
+
+Colors
+------
+dark grey -   787878
+light grey -  EDEDED
+medium grey - D8D8D8
+red - 	      E13B2B
+black -       3A3A3A
+white -       FFFFFF
+
+Fonts
+-----
+* Roboto

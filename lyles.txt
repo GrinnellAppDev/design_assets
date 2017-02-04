@@ -1,0 +1,16 @@
+# Lyle's App Info
+
+red -    C00000
+black -  1A1A1A
+yellow - FFCD00
+white -  FFFFFF
+
+FONTS
+-----
+## iOS
+* "Beer Binder" - Bookman Old Style
+* .SF NS Text (or Helvetica Neue)
+
+## Android
+* "Beer Binder" - Roboto
+* .SF NS Text (or Helvetica Neue)
