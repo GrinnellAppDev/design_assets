@@ -1,0 +1,13 @@
+# DB App Info:
+
+Colors
+------
+red - 	D13737
+black - 101010
+white - FFFFFF
+grey -  BEBEBE 
+lighter grey - CECED2
+
+Fonts
+-----
+* System Font
